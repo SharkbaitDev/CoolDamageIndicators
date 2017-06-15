@@ -1,0 +1,5 @@
+name: CoolDamageIndicators
+author: Sharkbait
+version: 1.0
+main: com.sharkbait.damageindicators.Core
+description: Armor stand indicators when damaged!

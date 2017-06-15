@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="1.12 PRE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Plugin Dependencies/Spigot/1.12 PRE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Plugin Dependencies/Spigot/1.12 PRE.jar!/" />
+    </SOURCES>
+  </library>
+</component>
